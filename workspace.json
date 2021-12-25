@@ -1,4 +1,6 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "i-am-rich": "apps/i-am-rich"
+  }
 }
